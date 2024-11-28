@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+  <title>Restaurant ni MCDO</title>
+<link rel="stylesheet" href="Homepage.css">
+<body>
+<center><h1>BIO-DATA</h1>  </center>
+<div class="pecture"></div>
+<h2 class="pd">PERSONAL DATA</h1>
+<div class="wan">
+<h3>Position Desired :_______________ Date :_______________</h3>
+<h3>Name :_______________ Gender :_______________</h3>
+<h3>City Address:________________________________________</h3>
+<h3>Provincial Address:__________________________________</h3>
+<h3>Telephone :_______________ Cellphone :_______________</h3>
+<h3>Email Address :______________________ :_______________</h3>
+<h3>Date of Birth :_____________ Birth of Place :____________</h3>
+<h3>Civil Status :_______________ Citizenship :_______________</h3>
+<h3>Height :_______________ Weight :_______________</h3>
+<h3>Religion :____________________</h3>
+<h3>Spouse :_______________  Occupation :_______________</h3>
+<h3>Name of Children :____________  Date of Birth :_______</h3>
+
+<h3>:______________________________________  :______________________________________</h3>
+<h3>:______________________________________  :______________________________________</h3>
+<h3>Father's Name :____________ Occupation :____________</h3>
+<h3>Mother's Name :____________ Occupation :____________</h3>
+<h3>Language or dialect spoken and written:_______________</h3>
+<h3>Person to be Contacted in case of emergency:________</h3>
+<h3>His or Her address and telephone:_____________________</h3>
+</div>
+
+<h2 class="eb">EDUCATIONAL BACKGROUND</h2>
+<div class="two">
+<h3>Elementary :_______________ Year Graduated :________</h3>
+<h3>High School :_____________ Year Graduated :_________</h3>
+<h3>College :_____________ Year Graduated :_____________</h3>
+<h3>Degree Recieved  :_______________</h3>
+<h3>Special Skills :_______________</h3>
+</div>
+
+<h2 class="er">EMPLOYMENT RECORD</h2>
+<div class="three">
+<h3>Company Name : ___________________________________</nobr>
+<h3> Position: ________ From :________ To:______________</h3>
+<p></p>
+<h3>Company Name : ___________________________________</nobr>
+<h3> Position: ________ From :________ To:______________</h3>
+</div>
+
+<h2 class="cr">CHARACTER REFERENCE</h2>
+<div class="por">
+<h3>Name :_____________ Company:___________________</h3>
+<h3>Position :__________________ Contact No.:_______________</h3>
+<br>
+<h3>Name :_________________ Company:__________________</h3>
+<h3>Position :_____________ Contact No.:_____________</h3>
+</div>
+<br>
+<br>
+<br>
+<div class="payb">
+<p>Res. Cert No. :__________________________________</p>
+<p>Issued at :__________________________________</p>
+<p>Issued on:__________________________________</p>
+<p>SSS:__________________________________</p>
+<p>TIN:__________________________________</p>
+<p>NBI No.:__________________________________</p>
+<p>Passport No.:__________________________________</p>
+</div>
+
+<p>I here certify that the above information is true and correct to the best of my knowledge and belief. I also understand that my misinterprtation will be considered reason for withdrawal of an offer or sibseqient dismissal if employed.</p>
+<center><p>__________________________________</p></center>
+<center><h3>Applicant's Signature</h3></center>
+</body>
+</html><!DOCTYPE html>
+<html>
+  <title>Restaurant ni Aling Nena</title>
+<link rel="stylesheet" href="Homepage.css">
+<body>
+<center><h1>BIO-DATA</h1>  </center>
+<div class="pecture"></div>
+<h2 class="pd">PERSONAL DATA</h1>
+<div class="wan">
+<h3>Position Desired :_______________ Date :_______________</h3>
+<h3>Name :_______________ Gender :_______________</h3>
+<h3>City Address:________________________________________</h3>
+<h3>Provincial Address:__________________________________</h3>
+<h3>Telephone :_______________ Cellphone :_______________</h3>
+<h3>Email Address :______________________ :_______________</h3>
+<h3>Date of Birth :_____________ Birth of Place :____________</h3>
+<h3>Civil Status :_______________ Citizenship :_______________</h3>
+<h3>Height :_______________ Weight :_______________</h3>
+<h3>Religion :____________________</h3>
+<h3>Spouse :_______________  Occupation :_______________</h3>
+<h3>Name of Children :____________  Date of Birth :_______</h3>
+
+<h3>:______________________________________  :______________________________________</h3>
+<h3>:______________________________________  :______________________________________</h3>
+<h3>Father's Name :____________ Occupation :____________</h3>
+<h3>Mother's Name :____________ Occupation :____________</h3>
+<h3>Language or dialect spoken and written:_______________</h3>
+<h3>Person to be Contacted in case of emergency:________</h3>
+<h3>His or Her address and telephone:_____________________</h3>
+</div>
+
+<h2 class="eb">EDUCATIONAL BACKGROUND</h2>
+<div class="two">
+<h3>Elementary :_______________ Year Graduated :________</h3>
+<h3>High School :_____________ Year Graduated :_________</h3>
+<h3>College :_____________ Year Graduated :_____________</h3>
+<h3>Degree Recieved  :_______________</h3>
+<h3>Special Skills :_______________</h3>
+</div>
+
+<h2 class="er">EMPLOYMENT RECORD</h2>
+<div class="three">
+<h3>Company Name : ___________________________________</nobr>
+<h3> Position: ________ From :________ To:______________</h3>
+<p></p>
+<h3>Company Name : ___________________________________</nobr>
+<h3> Position: ________ From :________ To:______________</h3>
+</div>
+
+<h2 class="cr">CHARACTER REFERENCE</h2>
+<div class="por">
+<h3>Name :_____________ Company:___________________</h3>
+<h3>Position :__________________ Contact No.:_______________</h3>
+<br>
+<h3>Name :_________________ Company:__________________</h3>
+<h3>Position :_____________ Contact No.:_____________</h3>
+</div>
+<br>
+<br>
+<br>
+<div class="payb">
+<p>Res. Cert No. :__________________________________</p>
+<p>Issued at :__________________________________</p>
+<p>Issued on:__________________________________</p>
+<p>SSS:__________________________________</p>
+<p>TIN:__________________________________</p>
+<p>NBI No.:__________________________________</p>
+<p>Passport No.:__________________________________</p>
+</div>
+
+<p>I here certify that the above information is true and correct to the best of my knowledge and belief. I also understand that my misinterprtation will be considered reason for withdrawal of an offer or sibseqient dismissal if employed.</p>
+<center><p>__________________________________</p></center>
+<center><h3>Applicant's Signature</h3></center>
+</body>
+</html>
+
+
+/////// CSS ///////
+.wan{
+ border: 2px solid black
+ ;
+}
+.two{
+  border: 2px solid black;
+}
+.three{
+  border: 2px solid black;
+}
+.por{
+  border: 2px solid black;
+}
+.payb{
+  border:2px solid black;
+  
+ 
+}
+p{
+  font-style: italic;
+  
+}
+.pecture{
+  border: 2px solid black;
+  width: 200px;
+  height: 200px;
+  margin-left:250px ;
+}
+.pd{
+  border: 2px solid black;
+  background: black;
+}
+.eb{
+border: 2px solid black;
+background: black;
+}
+.er{
+border: 2px solid black;
+background: black;
+}
+.cr{
+border: 2px solid black;
+background: black;
+
+}
+h2{
+  color: white;
+}
